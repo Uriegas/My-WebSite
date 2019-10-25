@@ -1,0 +1,34 @@
+
+---Downloaded files---
+The import files for: Intrinsic Light Version were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://localhost/Blog
+Data file = C:\xampp\htdocs\Blog/wp-content/uploads/2019/10/demo-content-import-file_2019-10-25__21-09-30.xml
+Widget file = C:\xampp\htdocs\Blog/wp-content/uploads/2019/10/demo-widgets-import-file_2019-10-25__21-09-30.json
+Customizer file = C:\xampp\htdocs\Blog/wp-content/uploads/2019/10/demo-customizer-import-file_2019-10-25__21-09-30.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar Blog : 
+
+Image - Ads Widget - Imported
+Categories - Categories - Imported
+Gallery - Our Gallery - Imported
+Tag Cloud - Tag Cloud - Imported
+
+Sidebar Single : 
+
+Image - Ads Widgets - Imported
+Categories - Categories - Imported
+Gallery - Our Gallery - Imported
+Tag Cloud - Tag Cloud - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
