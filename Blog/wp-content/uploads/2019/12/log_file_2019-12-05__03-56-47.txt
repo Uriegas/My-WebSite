@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Educenter Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://localhost/Blog
+Data file = C:\xampp\htdocs\Blog/wp-content/themes/educenter/welcome/demo-data/educenter.xml
+Widget file = C:\xampp\htdocs\Blog/wp-content/themes/educenter/welcome/demo-data/educenter.wie
+Customizer file = C:\xampp\htdocs\Blog/wp-content/themes/educenter/welcome/demo-data/educenter.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Right Sidebar Widget Area : 
+
+Search - No Title - Widget already exists
+Gallery - Our Success Gallery - Widget already exists
+Categories - No Title - Widget already exists
+Custom HTML - Facebook Feed - Widget already exists
+Product Categories - Product categories - Widget already exists
+
+Left Sidebar Widget Area : 
+
+Search - No Title - Widget already exists
+Gallery - Our Success Gallery - Widget already exists
+Categories - No Title - Widget already exists
+Custom HTML - Facebook Feed - Widget already exists
+Product Categories - Product categories - Widget already exists
+Recent Posts - No Title - Widget already exists
+
+Footer Widget Area : 
+
+Text - About Us - Widget already exists
+Recent Posts - No Title - Widget already exists
+Custom HTML - Facebook Page - Widget already exists
+Gallery - Gallery - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

@@ -1,0 +1,154 @@
+
+---Downloaded files---
+The import files for: Educenter Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://localhost/Blog
+Data file = C:\xampp\htdocs\Blog/wp-content/themes/educenter/welcome/demo-data/educenter.xml
+Widget file = C:\xampp\htdocs\Blog/wp-content/themes/educenter/welcome/demo-data/educenter.wie
+Customizer file = C:\xampp\htdocs\Blog/wp-content/themes/educenter/welcome/demo-data/educenter.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar Widget Area : 
+
+Search - No Title - Widget already exists
+Gallery - Our Success Gallery - Imported
+Categories - No Title - Widget already exists
+Custom HTML - Facebook Feed - Imported
+Product Categories - Product categories - Imported
+
+Left Sidebar Widget Area : 
+
+Search - No Title - Imported
+Gallery - Our Success Gallery - Imported
+Categories - No Title - Imported
+Custom HTML - Facebook Feed - Imported
+Product Categories - Product categories - Imported
+Recent Posts - No Title - Imported
+
+Footer Widget Area : 
+
+Text - About Us - Imported
+Recent Posts - No Title - Imported
+Custom HTML - Facebook Page - Imported
+Gallery - Gallery - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
